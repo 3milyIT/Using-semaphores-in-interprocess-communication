@@ -1,5 +1,8 @@
 # Using-semaphores-in-interprocess-communication
 
+https://docs.docker.com/get-started/02_our_app/
+https://docs.docker.com/compose/gettingstarted/
+
 ## Communicating through Shared Memory with Semaphores in C
 
 In this article, we will explore how to use shared memory and semaphores to facilitate communication between two programs in C. Shared memory allows multiple processes to access the same region of memory, while semaphores enable synchronization and control of access to shared resources. We will implement two programs: a sender and a receiver, which will communicate by exchanging messages through shared memory.
